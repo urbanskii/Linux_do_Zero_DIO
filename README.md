@@ -10,7 +10,7 @@ Para sair e salvar, pressione a tecla ESC e digite :wq!
 
 Para simular a execução no terminal Linux, você pode copiar e colar o código acima em um arquivo de script, dar permissão de execução para o arquivo e executá-lo no terminal. Por exemplo:
 
-# salve o código acima em um arquivo chamado script.sh
+salve o código acima em um arquivo chamado script.sh
 chmod +x script.sh
 ./script.sh
 
@@ -23,6 +23,6 @@ Type ESC+:wq! to quit and save de the file.
 
 To simulate the execution in the Linux terminal, you can copy and paste the code above into a script file, give execution permission to the file, and run it in the terminal. For example:
 
-# save the code above in a file called script.sh
+save the code above in a file called script.sh
 chmod +x script.sh
 ./script.sh
