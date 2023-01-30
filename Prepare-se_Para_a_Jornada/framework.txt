@@ -1,0 +1,9 @@
+Frameworks
+
+é um facilitador, modelos de codigo pré pronto para ser reutilizado.
+laravel = php
+vue,.js  = javascript
+spring = java
+
+
+
