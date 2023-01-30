@@ -1,0 +1,3 @@
+o que está por tras do software,
+
+Cliente reliza requisição para o servidor, atraves de uma api que consulta o banco de dados e retorna a informação.
