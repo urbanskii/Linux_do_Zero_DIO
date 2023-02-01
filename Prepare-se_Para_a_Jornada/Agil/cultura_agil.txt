@@ -1,0 +1,29 @@
+4 valores do Manifesto Ágil
+
+1: Individuos e Interações, mais que processos e ferramentas
+2: Software em funcionamento, mais que documentação abrangente
+3: Responder a mudanças, mais que seguir um plano 
+4: Colaboração com o cliente, mais que negociação de contratos
+
+Os doze princípios do Manifesto
+
+1: Priorize satisfação do cliente através da entrega contínua e valiosa de software.
+2: Aceite mudanças de requisitos, mesmo tardiamente no desenvolvimento.
+3: Entregue software funcional frequentemente, com intervalos de tempo curtos.
+4: Colaboração com o cliente e entre os membros da equipe é fundamental.
+5: Construa projetos em torno de indivíduos motivados e permita-lhes a auto-organização.
+6: O processo de desenvolvimento de software deve ser visível a todos envolvidos.
+7: Mantenha um bom relacionamento com os stakeholders.
+8: Measure progress primarily through working software.
+9: Sustentabilidade é essencial para permitir um ritmo contínuo de trabalho.
+10: Simplicidade — o essencial é mais importante que a complexidade.
+11: O melhor arquiteto, análise, design, e implementação são resultados de equipe colaborativa e auto-organizada.
+12: Auto-reflexão para melhoria contínua dos processos ágeis.
+
+V olátil
+U incerto
+C omplexo
+A mbíguo
+
+
+
