@@ -1,0 +1,21 @@
+Projeto x Processo
+
+Processo algo que ja está implementado, repetitivo
+Projeto nova solução de um produto.
+
+Modelo tradicional cascata (WATERFALL)
+
+Análise --> Projeto(design) --> implementação --> Teste --> Entrega/Manutenção
+
+SCRUM
+
+Planejamento por Sprints
+
+Desenvolvimento iterativo e incremental
+
+valor entregue continuamente
+
+Feedback
+
+
+
