@@ -1,0 +1,7 @@
+
+Desenvolvimento mobile
+
+android: java e/ou kotlin
+ios: swift
+hibrido: ionic, flutter, reactnative
+
