@@ -13,6 +13,14 @@ planeja --> faz --> testa/mensura --> melhora/incrementa, retorna para planeja.
 o que tem no xp?
 ciclos, cerimonias, testes, programação em pares, feedback, aproximação com o cliente, flexibilidade.
 
+Kanban o que é?
+
+É um metodo para definir, gerenciar e melhorar serviços que entregam trabalho de conhecimento, como serviços profissionais,
+atividades criativas e o design de produtos físicos e de software.
+
+uma ferramenta para gerenciar serviços
+
+
 
 
 
