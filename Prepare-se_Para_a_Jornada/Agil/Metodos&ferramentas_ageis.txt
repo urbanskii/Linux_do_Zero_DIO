@@ -4,3 +4,15 @@ bases do scrum: empirismo e lean thinking
 
 Pilares: transparência, inspeção e adaptação.
 
+framework scrum = é uma estrutura de trabalho, é propositalmente incompleto.
+
+Extreme Programming (XP): Interação próxima com os clientes, testagem constante e ciclos de desenvolvimento curtos, fazer ciclos de entrega rapidos, continuos e incrementais,
+para atingir os resultados esperados pelo cliente. 
+planeja --> faz --> testa/mensura --> melhora/incrementa, retorna para planeja.
+
+o que tem no xp?
+ciclos, cerimonias, testes, programação em pares, feedback, aproximação com o cliente, flexibilidade.
+
+
+
+
