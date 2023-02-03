@@ -20,6 +20,29 @@ atividades criativas e o design de produtos físicos e de software.
 
 uma ferramenta para gerenciar serviços
 
+OKR o que é?
+
+Objectives, keys, results
+
+Simplificar a forma de encarar os chamados os principais objetivos estratégicos de uma empresa.
+
+descrições qualitativas que apontam a direção que deverá ser seguida pela empresa;
+
+* Claro
+*Inspirador
+* desafiador
+*alinhado coma a missao do negocio
+
+Exemplo
+Objetivo criar uma experiencia inesquecivel para o cliente em todos os pontos de contato
+KR1 = Integrar a base de dados dos 5 canais de atendimento
+KR2 = Contratar mais 15 atendentes e 1 gestor de comunidade
+KR3 = Alcançar um NPS de 80%
+
+Okr beneficios agilidade cooperação transparencia monitoramento continuos
+
+
+
 
 
 
