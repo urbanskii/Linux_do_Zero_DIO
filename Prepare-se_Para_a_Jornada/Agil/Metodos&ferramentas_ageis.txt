@@ -41,7 +41,17 @@ KR3 = Alcançar um NPS de 80%
 
 Okr beneficios agilidade cooperação transparencia monitoramento continuos
 
+Ferramentas utilizadas para gestao agilidade
 
+Trello
+Notion
+miro
+monday 
+easyretro
+jira
+ckickup
+pipefy
+asana
 
 
 
