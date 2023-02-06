@@ -1,0 +1,1 @@
+Informações basicas de como fuciona o sistema operacional, Kernel, etc.
