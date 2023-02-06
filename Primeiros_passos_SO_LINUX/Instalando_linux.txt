@@ -1,0 +1,9 @@
+Realizar download ubuntu server 
+
+https://ubuntu.com/download/server
+
+instalar o Ubuntu no virtualbox como maquina virtual.
+
+
+
+
