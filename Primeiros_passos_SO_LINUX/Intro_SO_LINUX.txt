@@ -1,3 +1,5 @@
 Informações basicas de como fuciona o sistema operacional, Kernel, etc.
 
 https://www.dio.me/certificate/89F46099/share
+
+right issues
