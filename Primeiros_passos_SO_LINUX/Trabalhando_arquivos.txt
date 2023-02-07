@@ -1,8 +1,27 @@
 Terminal linux:
 
-~$ usuario com restrição
+~$ dentro do diretorio do usuario, $ mesmo possui restrições de acesso.
 
 date 
 clear limpar a Tela 
+
+
+Navegando pelo sistema de arquivos:
+
+pwd: mostrar diretorio atual
+cd /: sair para o diretorio raiz (Change Directory)
+ls: listar arquivos
+cd /var: acessar o diretorio /var
+cd log: 
+cd ..: retornar para diretorio anterior
+cd ../backups: retornar para diretorio anterior e acessar outro diretorio.
+
+
+
+
+
+
+
+
 
 
