@@ -1,0 +1,19 @@
+primeiro acesso a maquina virtual dentro do pc pessoal
+
+acessar o ubuntu da vn e descobrir qual o ip da maquina com o comando "ip a"
+
+instalar o openssh-server na vn
+sudo apt-get istall openssh-server
+
+
+acessar o ubuntu da vn na aws,
+
+o arquivo key-ubuntu.pem foi a chave criada na instancia da aws
+
+restringir permissões para o arquivo da chave na maquina:
+
+** sudo chmod 600 key-ubuntu.pem
+
+ssh -i key-ubuntu.pem ubuntu@ip da maquina virtual
+
+https://www.dio.me/certificate/5F92B811/share
