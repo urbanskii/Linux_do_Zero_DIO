@@ -16,6 +16,10 @@ cd log:
 cd ..: retornar para diretorio anterior
 cd ../backups: retornar para diretorio anterior e acessar outro diretorio.
 
+Filtrando a exibição de arquivos:
+
+cd /etc: 
+
 
 
 
