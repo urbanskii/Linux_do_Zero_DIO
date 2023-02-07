@@ -1,0 +1,8 @@
+Terminal linux:
+
+~$ usuario com restrição
+
+date 
+clear limpar a Tela 
+
+
