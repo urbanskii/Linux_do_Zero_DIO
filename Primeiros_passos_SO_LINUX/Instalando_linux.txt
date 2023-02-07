@@ -5,5 +5,10 @@ https://ubuntu.com/download/server
 instalar o Ubuntu no virtualbox como maquina virtual.
 
 
+pra desligar maquina virtual shutdown 0 
+
+criando uma conta na AWS
+
+testando branchs
 
 
