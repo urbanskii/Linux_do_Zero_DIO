@@ -1,0 +1,32 @@
+Projeto x Processo
+
+Processo algo que ja está implementado, repetitivo
+Projeto nova solução de um produto.
+
+Modelo tradicional cascata (WATERFALL)
+
+Análise --> Projeto(design) --> implementação --> Teste --> Entrega/Manutenção
+
+SCRUM
+
+Planejamento por Sprints
+
+Desenvolvimento iterativo e incremental
+
+valor entregue continuamente
+
+Feedback
+
+
+o que é gestão Agil
+
+
+uma forma de gestão que seja...
+
+flexivel e que se adapte às mudanças
+colaborativa e que gere transparência
+voltada ao aprendizado
+entrega continua de valor 
+
+
+
