@@ -20,6 +20,14 @@ Filtrando a exibição de arquivos:
 
 cd /etc: 
 
+ls | more : barra de rolagem 
+ls passwd: procurar arquivo especifico indicando o nome
+ls pass + tab para listar parecidos
+ls p* : Listar arquivos e diretorios
+ls m?g* : ? para qualquer letra 
+ls ?rh*
+
+
 
 
 
