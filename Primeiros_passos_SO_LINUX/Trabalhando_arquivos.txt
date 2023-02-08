@@ -27,6 +27,16 @@ ls p* : Listar arquivos e diretorios
 ls m?g* : ? para qualquer letra 
 ls ?rh*
 
+touch arquivo1.txt : criar arquivo
+ls arquivo[1-3].txt ou * : listar de 1 a 3
+ls arquivo[2,5].txt ou * : listar 2 e 5
+ls arquivo[^2,5]* ou txt : listar e negar do 2 e 5
+ls arquivo[^2-5]* ou txt : listar e negar do 2 ate o 5
+
+
+
+
+
 
 
 
