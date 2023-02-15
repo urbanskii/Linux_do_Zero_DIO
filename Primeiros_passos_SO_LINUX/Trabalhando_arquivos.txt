@@ -33,6 +33,10 @@ ls arquivo[2,5].txt ou * : listar 2 e 5
 ls arquivo[^2,5]* ou txt : listar e negar do 2 e 5
 ls arquivo[^2-5]* ou txt : listar e negar do 2 ate o 5
 
+ls /sys/kernel/p* : lista arquivos dentro diretorio informado que começam com a letra P
+find -name arq* : buscar arquivo com o nome começando com arq*
+
+
 
 
 
