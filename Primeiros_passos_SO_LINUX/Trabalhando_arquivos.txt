@@ -40,6 +40,8 @@ mkdir Documentos : para criar diretorios
 rmdir : excluir diretorios.
 rm arquivo : excluir excluir arquivos.
 
+ls --help : mostra todas as opções disponiveis para utilizar o comando ls
+rm --help : mostra todas as opções disponiveis para utilizar o comando rm
 
 
 
