@@ -37,6 +37,11 @@ ls /sys/kernel/p* : lista arquivos dentro diretorio informado que começam com a
 find -name arq* : buscar arquivo com o nome começando com arq*
 mkdir Documentos : para criar diretorios
 
+rmdir : excluir diretorios.
+rm arquivo : excluir excluir arquivos.
+
+
+
 
 
 
